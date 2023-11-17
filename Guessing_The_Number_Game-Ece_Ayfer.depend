@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680519193 source:c:\users\asus\onedrive\belgeler\software lab\codes\quizzes\guessing_the_number_game-ece_ayfer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1680519193 source:c:\users\asus\onedrive\belgeler\freshman year\software lab\codes\quizzes\guessing_the_number_game-ece_ayfer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
